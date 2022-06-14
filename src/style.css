@@ -1,0 +1,8 @@
+.infinity {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 50px;
+    border: 7px solid salmon;
+    box-shadow: 7px 3px 2px 5px;
+    background-color: beige;
+}
